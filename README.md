@@ -1,0 +1,1 @@
+To test the functions, log out the methods.
